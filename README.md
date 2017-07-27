@@ -7,4 +7,4 @@
 - The initial test code was primarily developed for Windows platform.
 - Later a Makefile was developed and incorporated with the original test code for Linux users.
 
-**Note: The step-by-step guidance on how GTest framework is implemented, and how the test methods are decided in the word document included.
+**Note: The step-by-step guidance on how GTest framework is implemented, and how the test methods are discussed in the word document included.
